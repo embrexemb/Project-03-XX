@@ -1,5 +1,0 @@
-Your API Key: 796805F3-6DE1-4B25-B1B3-AB3B11D24E4B
-
-https://aqs.epa.gov/aqsweb/documents/about_aqs_data.html#_airdata
-https://aqs.epa.gov/aqsweb/documents/data_api.html
-https://aqs.epa.gov/aqsweb/documents/data_api.html#format
