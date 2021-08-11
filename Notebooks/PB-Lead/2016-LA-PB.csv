@@ -1,0 +1,979 @@
+Date,Source,Site ID,POC,Daily Mean Pb Concentration,UNITS,DAILY_AQI_VALUE,Site Name,DAILY_OBS_COUNT,PERCENT_COMPLETE,AQS_PARAMETER_CODE,AQS_PARAMETER_DESC,CBSA_CODE,CBSA_NAME,STATE_CODE,STATE,COUNTY_CODE,COUNTY,SITE_LATITUDE,SITE_LONGITUDE
+1/1/2016,AQS,60370002,4,0.0068,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+1/13/2016,AQS,60370002,4,0.0087,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+1/25/2016,AQS,60370002,4,0.0035,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+2/8/2016,AQS,60370002,4,0.0032,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+2/18/2016,AQS,60370002,4,0.0006,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+3/1/2016,AQS,60370002,4,0.01,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+3/13/2016,AQS,60370002,4,0.0018,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+3/28/2016,AQS,60370002,4,0.0053,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+4/6/2016,AQS,60370002,4,0.0115,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+4/18/2016,AQS,60370002,4,0.0232,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+5/2/2016,AQS,60370002,4,0.0075,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+5/12/2016,AQS,60370002,4,0.0102,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+5/24/2016,AQS,60370002,4,0.0028,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+6/5/2016,AQS,60370002,4,0.0052,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+6/20/2016,AQS,60370002,4,0.0087,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+6/29/2016,AQS,60370002,4,0.0061,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+7/11/2016,AQS,60370002,4,0.0107,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+7/25/2016,AQS,60370002,4,0.0079,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+8/4/2016,AQS,60370002,4,0.0072,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+8/16/2016,AQS,60370002,4,0.011,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+8/29/2016,AQS,60370002,4,0.0097,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+9/12/2016,AQS,60370002,4,0.0035,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+9/21/2016,AQS,60370002,4,0.0076,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+10/3/2016,AQS,60370002,4,0.0097,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+10/17/2016,AQS,60370002,4,0.0028,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+10/27/2016,AQS,60370002,4,0.0134,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+11/8/2016,AQS,60370002,4,0.0071,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+11/21/2016,AQS,60370002,4,0.003,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+12/5/2016,AQS,60370002,4,0.0043,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+12/14/2016,AQS,60370002,4,0.0113,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+12/26/2016,AQS,60370002,4,0.0017,ug/m3 SC,.,Azusa,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.1365,-117.92391
+1/1/2016,AQS,60371103,2,0.011,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+1/7/2016,AQS,60371103,2,0.002,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+1/13/2016,AQS,60371103,2,0.009,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+1/19/2016,AQS,60371103,2,0.005,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+1/25/2016,AQS,60371103,2,0.008,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+1/31/2016,AQS,60371103,2,0.003,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+2/6/2016,AQS,60371103,2,0.008,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+2/12/2016,AQS,60371103,2,0.015,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+2/18/2016,AQS,60371103,2,0.003,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+2/24/2016,AQS,60371103,2,0.008,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+3/1/2016,AQS,60371103,2,0.014,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+3/7/2016,AQS,60371103,2,0.003,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+3/13/2016,AQS,60371103,2,0.003,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+3/19/2016,AQS,60371103,2,0.006,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+3/25/2016,AQS,60371103,2,0.008,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+3/31/2016,AQS,60371103,2,0.007,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+4/6/2016,AQS,60371103,2,0.009,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+4/12/2016,AQS,60371103,2,0.01,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+4/18/2016,AQS,60371103,2,0.014,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+4/24/2016,AQS,60371103,2,0.009,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+4/30/2016,AQS,60371103,2,0.007,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+5/6/2016,AQS,60371103,2,0.004,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+5/12/2016,AQS,60371103,2,0.011,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+5/18/2016,AQS,60371103,2,0.008,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+5/24/2016,AQS,60371103,2,0.004,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+5/30/2016,AQS,60371103,2,0.003,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+6/5/2016,AQS,60371103,2,0.004,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+6/11/2016,AQS,60371103,2,0.003,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+6/17/2016,AQS,60371103,2,0.014,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+6/23/2016,AQS,60371103,2,0.007,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+6/29/2016,AQS,60371103,2,0.011,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+7/5/2016,AQS,60371103,2,0.007,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+7/11/2016,AQS,60371103,2,0.005,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+7/17/2016,AQS,60371103,2,0.003,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+7/23/2016,AQS,60371103,2,0.012,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+7/29/2016,AQS,60371103,2,0.009,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+8/4/2016,AQS,60371103,2,0.011,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+8/10/2016,AQS,60371103,2,0.027,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+8/16/2016,AQS,60371103,2,0.009,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+8/22/2016,AQS,60371103,2,0.007,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+8/28/2016,AQS,60371103,2,0.004,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+9/3/2016,AQS,60371103,2,0.003,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+9/9/2016,AQS,60371103,2,0.005,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+9/15/2016,AQS,60371103,2,0.011,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+9/27/2016,AQS,60371103,2,0.019,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+10/3/2016,AQS,60371103,2,0.022,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+10/9/2016,AQS,60371103,2,0.01,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+10/15/2016,AQS,60371103,2,0.004,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+10/21/2016,AQS,60371103,2,0.019,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+10/27/2016,AQS,60371103,2,0.023,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+11/2/2016,AQS,60371103,2,0.021,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+11/14/2016,AQS,60371103,2,0.014,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+11/20/2016,AQS,60371103,2,0.007,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+11/26/2016,AQS,60371103,2,0.007,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+12/2/2016,AQS,60371103,2,0.017,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+12/8/2016,AQS,60371103,2,0.013,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+12/14/2016,AQS,60371103,2,0.026,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+12/20/2016,AQS,60371103,2,0.016,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+12/26/2016,AQS,60371103,2,0.006,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+1/1/2016,AQS,60371103,3,0.013,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+1/13/2016,AQS,60371103,3,0.01,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+1/19/2016,AQS,60371103,3,0.006,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+1/25/2016,AQS,60371103,3,0.01,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+1/31/2016,AQS,60371103,3,0.002,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+2/6/2016,AQS,60371103,3,0.008,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+2/12/2016,AQS,60371103,3,0.015,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+2/18/2016,AQS,60371103,3,0.004,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+2/24/2016,AQS,60371103,3,0.007,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+3/1/2016,AQS,60371103,3,0.014,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+3/7/2016,AQS,60371103,3,0.002,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+3/13/2016,AQS,60371103,3,0.003,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+3/19/2016,AQS,60371103,3,0.007,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+3/25/2016,AQS,60371103,3,0.008,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+3/31/2016,AQS,60371103,3,0.007,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+4/6/2016,AQS,60371103,3,0.009,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+4/12/2016,AQS,60371103,3,0.01,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+4/18/2016,AQS,60371103,3,0.013,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+4/30/2016,AQS,60371103,3,0.008,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+5/6/2016,AQS,60371103,3,0.004,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+5/12/2016,AQS,60371103,3,0.011,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+5/18/2016,AQS,60371103,3,0.006,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+5/24/2016,AQS,60371103,3,0.004,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+5/30/2016,AQS,60371103,3,0.003,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+6/5/2016,AQS,60371103,3,0.004,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+6/11/2016,AQS,60371103,3,0.003,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+6/17/2016,AQS,60371103,3,0.013,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+6/23/2016,AQS,60371103,3,0.007,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+6/29/2016,AQS,60371103,3,0.011,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+7/11/2016,AQS,60371103,3,0.005,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+7/17/2016,AQS,60371103,3,0.003,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+7/23/2016,AQS,60371103,3,0.012,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+7/29/2016,AQS,60371103,3,0.009,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+8/4/2016,AQS,60371103,3,0.011,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+8/10/2016,AQS,60371103,3,0.026,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+8/16/2016,AQS,60371103,3,0.009,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+8/22/2016,AQS,60371103,3,0.008,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+8/28/2016,AQS,60371103,3,0.005,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+9/3/2016,AQS,60371103,3,0.004,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+9/9/2016,AQS,60371103,3,0.005,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+9/15/2016,AQS,60371103,3,0.011,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+9/27/2016,AQS,60371103,3,0.019,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+10/3/2016,AQS,60371103,3,0.022,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+10/15/2016,AQS,60371103,3,0.005,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+10/21/2016,AQS,60371103,3,0.019,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+10/27/2016,AQS,60371103,3,0.023,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+11/2/2016,AQS,60371103,3,0.02,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+11/14/2016,AQS,60371103,3,0.015,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+11/26/2016,AQS,60371103,3,0.007,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+12/2/2016,AQS,60371103,3,0.019,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+12/8/2016,AQS,60371103,3,0.013,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+12/14/2016,AQS,60371103,3,0.026,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+12/20/2016,AQS,60371103,3,0.018,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+12/26/2016,AQS,60371103,3,0.006,ug/m3 LC,.,Los Angeles-North Main Street,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+1/1/2016,AQS,60371103,7,0.0035,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+1/13/2016,AQS,60371103,7,0.0033,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+1/25/2016,AQS,60371103,7,0.0031,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+2/6/2016,AQS,60371103,7,0.0049,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+2/18/2016,AQS,60371103,7,0.0024,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+3/1/2016,AQS,60371103,7,0.0137,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+3/13/2016,AQS,60371103,7,0.0016,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+3/25/2016,AQS,60371103,7,0.0051,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+4/6/2016,AQS,60371103,7,0.0055,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+4/18/2016,AQS,60371103,7,0.0076,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+4/30/2016,AQS,60371103,7,0.0063,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+5/12/2016,AQS,60371103,7,0.0095,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+5/24/2016,AQS,60371103,7,0.0023,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+6/5/2016,AQS,60371103,7,0.003,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+6/18/2016,AQS,60371103,7,0.0072,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+6/29/2016,AQS,60371103,7,0.0076,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+7/11/2016,AQS,60371103,7,0.0037,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+7/23/2016,AQS,60371103,7,0.0089,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+8/4/2016,AQS,60371103,7,0.0129,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+8/16/2016,AQS,60371103,7,0.0072,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+8/28/2016,AQS,60371103,7,0.0026,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+9/9/2016,AQS,60371103,7,0.0031,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+10/3/2016,AQS,60371103,7,0.0157,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+10/15/2016,AQS,60371103,7,0.0035,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+10/21/2016,AQS,60371103,7,0.019,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+10/27/2016,AQS,60371103,7,0.0162,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+11/8/2016,AQS,60371103,7,0.0132,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+11/20/2016,AQS,60371103,7,0.0046,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+12/2/2016,AQS,60371103,7,0.0122,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+12/14/2016,AQS,60371103,7,0.0249,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+12/26/2016,AQS,60371103,7,0.004,ug/m3 SC,.,Los Angeles-North Main Street,1,100,12128,Lead (TSP) STP,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.06659,-118.22688
+1/1/2016,AQS,60371302,1,0.028,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+1/7/2016,AQS,60371302,1,0.002,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+1/13/2016,AQS,60371302,1,0.011,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+1/19/2016,AQS,60371302,1,0.003,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+1/25/2016,AQS,60371302,1,0.008,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+1/31/2016,AQS,60371302,1,0.002,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+2/6/2016,AQS,60371302,1,0.015,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+2/12/2016,AQS,60371302,1,0.012,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+2/18/2016,AQS,60371302,1,0.002,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+2/24/2016,AQS,60371302,1,0.006,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+3/1/2016,AQS,60371302,1,0.005,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+3/7/2016,AQS,60371302,1,0.002,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+3/13/2016,AQS,60371302,1,0.002,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+3/19/2016,AQS,60371302,1,0.003,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+3/25/2016,AQS,60371302,1,0.005,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+3/31/2016,AQS,60371302,1,0.004,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+4/6/2016,AQS,60371302,1,0.006,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+4/12/2016,AQS,60371302,1,0.004,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+4/24/2016,AQS,60371302,1,0.005,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+4/30/2016,AQS,60371302,1,0.008,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+5/6/2016,AQS,60371302,1,0.003,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+5/12/2016,AQS,60371302,1,0.004,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+5/18/2016,AQS,60371302,1,0.004,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+5/24/2016,AQS,60371302,1,0.003,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+5/30/2016,AQS,60371302,1,0.003,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+6/5/2016,AQS,60371302,1,0.002,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+6/11/2016,AQS,60371302,1,0.003,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+6/17/2016,AQS,60371302,1,0.009,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+6/23/2016,AQS,60371302,1,0.005,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+6/29/2016,AQS,60371302,1,0.005,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+7/5/2016,AQS,60371302,1,0.004,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+7/11/2016,AQS,60371302,1,0.003,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+7/17/2016,AQS,60371302,1,0.002,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+7/23/2016,AQS,60371302,1,0.006,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+7/29/2016,AQS,60371302,1,0.004,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+8/4/2016,AQS,60371302,1,0.004,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+8/10/2016,AQS,60371302,1,0.004,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+8/16/2016,AQS,60371302,1,0.004,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+8/22/2016,AQS,60371302,1,0.005,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+8/28/2016,AQS,60371302,1,0.003,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+9/3/2016,AQS,60371302,1,0.003,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+9/9/2016,AQS,60371302,1,0.002,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+9/15/2016,AQS,60371302,1,0.005,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+9/21/2016,AQS,60371302,1,0.006,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+9/27/2016,AQS,60371302,1,0.008,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+10/3/2016,AQS,60371302,1,0.006,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+10/9/2016,AQS,60371302,1,0.006,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+10/21/2016,AQS,60371302,1,0.009,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+10/27/2016,AQS,60371302,1,0.008,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+11/2/2016,AQS,60371302,1,0.009,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+11/8/2016,AQS,60371302,1,0.014,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+11/14/2016,AQS,60371302,1,0.013,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+11/20/2016,AQS,60371302,1,0.006,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+11/26/2016,AQS,60371302,1,0.008,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+12/2/2016,AQS,60371302,1,0.01,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+12/8/2016,AQS,60371302,1,0.007,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+12/14/2016,AQS,60371302,1,0.013,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+1/1/2016,AQS,60371302,2,0.034,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+1/13/2016,AQS,60371302,2,0.01,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+1/19/2016,AQS,60371302,2,0.004,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+1/25/2016,AQS,60371302,2,0.008,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+1/31/2016,AQS,60371302,2,0.002,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+2/6/2016,AQS,60371302,2,0.016,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+2/12/2016,AQS,60371302,2,0.014,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+2/18/2016,AQS,60371302,2,0.002,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+2/24/2016,AQS,60371302,2,0.006,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+3/1/2016,AQS,60371302,2,0.005,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+3/7/2016,AQS,60371302,2,0.002,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+3/13/2016,AQS,60371302,2,0.002,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+3/25/2016,AQS,60371302,2,0.006,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+3/31/2016,AQS,60371302,2,0.005,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+4/6/2016,AQS,60371302,2,0.007,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+4/12/2016,AQS,60371302,2,0.003,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+4/18/2016,AQS,60371302,2,0.009,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+4/30/2016,AQS,60371302,2,0.007,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+5/6/2016,AQS,60371302,2,0.003,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+5/12/2016,AQS,60371302,2,0.004,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+5/18/2016,AQS,60371302,2,0.004,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+5/24/2016,AQS,60371302,2,0.003,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+5/30/2016,AQS,60371302,2,0.003,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+6/5/2016,AQS,60371302,2,0.003,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+6/11/2016,AQS,60371302,2,0.004,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+6/17/2016,AQS,60371302,2,0.009,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+6/23/2016,AQS,60371302,2,0.005,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+6/29/2016,AQS,60371302,2,0.005,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+7/5/2016,AQS,60371302,2,0.004,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+7/11/2016,AQS,60371302,2,0.003,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+7/17/2016,AQS,60371302,2,0.002,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+7/23/2016,AQS,60371302,2,0.006,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+7/29/2016,AQS,60371302,2,0.004,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+8/4/2016,AQS,60371302,2,0.004,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+8/10/2016,AQS,60371302,2,0.005,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+8/16/2016,AQS,60371302,2,0.004,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+8/22/2016,AQS,60371302,2,0.005,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+8/28/2016,AQS,60371302,2,0.003,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+9/3/2016,AQS,60371302,2,0.003,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+9/9/2016,AQS,60371302,2,0.003,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+9/15/2016,AQS,60371302,2,0.006,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+9/21/2016,AQS,60371302,2,0.006,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+9/27/2016,AQS,60371302,2,0.01,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+10/3/2016,AQS,60371302,2,0.006,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+10/9/2016,AQS,60371302,2,0.007,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+10/15/2016,AQS,60371302,2,0.003,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+10/21/2016,AQS,60371302,2,0.011,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+10/27/2016,AQS,60371302,2,0.008,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+11/2/2016,AQS,60371302,2,0.01,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+11/8/2016,AQS,60371302,2,0.016,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+11/14/2016,AQS,60371302,2,0.015,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+11/20/2016,AQS,60371302,2,0.006,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+11/26/2016,AQS,60371302,2,0.009,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+12/2/2016,AQS,60371302,2,0.013,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+12/8/2016,AQS,60371302,2,0.008,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+12/14/2016,AQS,60371302,2,0.013,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+12/20/2016,AQS,60371302,2,0.011,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+12/26/2016,AQS,60371302,2,0.04,ug/m3 LC,.,Compton,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.901389,-118.205
+7/11/2016,AQS,60371403,1,0.056,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+7/17/2016,AQS,60371403,1,0.013,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+7/23/2016,AQS,60371403,1,0.013,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+7/29/2016,AQS,60371403,1,0.027,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+8/5/2016,AQS,60371403,1,0.023,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+8/10/2016,AQS,60371403,1,0.029,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+8/16/2016,AQS,60371403,1,0.042,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+8/22/2016,AQS,60371403,1,0.029,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+8/28/2016,AQS,60371403,1,0.027,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+9/3/2016,AQS,60371403,1,0.011,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+9/9/2016,AQS,60371403,1,0.017,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+9/21/2016,AQS,60371403,1,0.039,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+9/27/2016,AQS,60371403,1,0.019,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+10/3/2016,AQS,60371403,1,0.031,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+10/9/2016,AQS,60371403,1,0.009,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+10/15/2016,AQS,60371403,1,0.018,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+10/21/2016,AQS,60371403,1,0.028,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+10/27/2016,AQS,60371403,1,0.028,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+11/2/2016,AQS,60371403,1,0.021,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+11/8/2016,AQS,60371403,1,0.018,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+11/14/2016,AQS,60371403,1,0.022,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+11/20/2016,AQS,60371403,1,0.019,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+11/26/2016,AQS,60371403,1,0.026,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+12/2/2016,AQS,60371403,1,0.032,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+12/8/2016,AQS,60371403,1,0.023,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+12/14/2016,AQS,60371403,1,0.023,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+12/20/2016,AQS,60371403,1,0.01,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+12/26/2016,AQS,60371403,1,0.005,ug/m3 LC,.,Uddelholm (Trojan Battery),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.954952,-118.055768
+1/1/2016,AQS,60371404,1,0.011,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+1/7/2016,AQS,60371404,1,0.006,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+1/13/2016,AQS,60371404,1,0.008,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+1/19/2016,AQS,60371404,1,0.006,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+1/25/2016,AQS,60371404,1,0.01,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+1/31/2016,AQS,60371404,1,0.007,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+2/6/2016,AQS,60371404,1,0.008,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+2/18/2016,AQS,60371404,1,0.007,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+2/24/2016,AQS,60371404,1,0.011,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+3/1/2016,AQS,60371404,1,0.014,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+3/7/2016,AQS,60371404,1,0.014,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+3/19/2016,AQS,60371404,1,0.008,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+3/25/2016,AQS,60371404,1,0.011,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+3/31/2016,AQS,60371404,1,0.024,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+4/6/2016,AQS,60371404,1,0.021,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+4/12/2016,AQS,60371404,1,0.015,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+4/24/2016,AQS,60371404,1,0.021,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+4/30/2016,AQS,60371404,1,0.012,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+5/12/2016,AQS,60371404,1,0.015,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+5/18/2016,AQS,60371404,1,0.019,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+5/24/2016,AQS,60371404,1,0.02,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+6/18/2016,AQS,60371404,1,0.011,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+6/23/2016,AQS,60371404,1,0.021,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+6/29/2016,AQS,60371404,1,0.014,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+7/5/2016,AQS,60371404,1,0.019,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+7/11/2016,AQS,60371404,1,0.013,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+7/17/2016,AQS,60371404,1,0.007,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+7/23/2016,AQS,60371404,1,0.017,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+7/29/2016,AQS,60371404,1,0.016,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+8/4/2016,AQS,60371404,1,0.01,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+8/10/2016,AQS,60371404,1,0.011,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+8/22/2016,AQS,60371404,1,0.015,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+8/28/2016,AQS,60371404,1,0.007,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+9/3/2016,AQS,60371404,1,0.012,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+9/9/2016,AQS,60371404,1,0.01,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+9/15/2016,AQS,60371404,1,0.025,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+9/21/2016,AQS,60371404,1,0.017,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+9/27/2016,AQS,60371404,1,0.032,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+10/3/2016,AQS,60371404,1,0.014,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+10/9/2016,AQS,60371404,1,0.013,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+10/15/2016,AQS,60371404,1,0.008,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+10/21/2016,AQS,60371404,1,0.02,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+10/27/2016,AQS,60371404,1,0.02,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+11/2/2016,AQS,60371404,1,0.02,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+11/8/2016,AQS,60371404,1,0.027,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+11/14/2016,AQS,60371404,1,0.018,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+11/20/2016,AQS,60371404,1,0.011,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+11/26/2016,AQS,60371404,1,0.012,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+12/2/2016,AQS,60371404,1,0.015,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+12/8/2016,AQS,60371404,1,0.011,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+12/14/2016,AQS,60371404,1,0.013,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+12/20/2016,AQS,60371404,1,0.021,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+12/26/2016,AQS,60371404,1,0.007,ug/m3 LC,.,Closet World (Quemetco),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.02637,-117.9822
+1/1/2016,AQS,60371405,1,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/3/2016,AQS,60371405,1,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/6/2016,AQS,60371405,1,0.008,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/9/2016,AQS,60371405,1,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/12/2016,AQS,60371405,1,0.04,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/14/2016,AQS,60371405,1,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/17/2016,AQS,60371405,1,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/20/2016,AQS,60371405,1,0.011,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/23/2016,AQS,60371405,1,0.015,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/26/2016,AQS,60371405,1,0.037,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/28/2016,AQS,60371405,1,0.036,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/30/2016,AQS,60371405,1,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+2/2/2016,AQS,60371405,1,0.027,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+2/5/2016,AQS,60371405,1,0.043,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+2/7/2016,AQS,60371405,1,0.02,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+2/10/2016,AQS,60371405,1,0.035,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+2/13/2016,AQS,60371405,1,0.028,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+2/16/2016,AQS,60371405,1,0.024,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+2/18/2016,AQS,60371405,1,0.008,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+2/20/2016,AQS,60371405,1,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+2/23/2016,AQS,60371405,1,0.043,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+2/26/2016,AQS,60371405,1,0.053,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+2/29/2016,AQS,60371405,1,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+3/2/2016,AQS,60371405,1,0.024,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+3/8/2016,AQS,60371405,1,0.02,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+3/11/2016,AQS,60371405,1,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+3/13/2016,AQS,60371405,1,0.007,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+3/15/2016,AQS,60371405,1,0.019,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+3/18/2016,AQS,60371405,1,0.016,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+3/21/2016,AQS,60371405,1,0.019,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+3/24/2016,AQS,60371405,1,0.035,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+3/26/2016,AQS,60371405,1,0.007,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+3/29/2016,AQS,60371405,1,0.036,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/1/2016,AQS,60371405,1,0.012,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/4/2016,AQS,60371405,1,0.016,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/6/2016,AQS,60371405,1,0.019,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/8/2016,AQS,60371405,1,0.004,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/11/2016,AQS,60371405,1,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/14/2016,AQS,60371405,1,0.039,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/17/2016,AQS,60371405,1,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/19/2016,AQS,60371405,1,0.019,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/22/2016,AQS,60371405,1,0.027,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/25/2016,AQS,60371405,1,0.071,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/28/2016,AQS,60371405,1,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/30/2016,AQS,60371405,1,0.011,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/2/2016,AQS,60371405,1,0.015,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/5/2016,AQS,60371405,1,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/8/2016,AQS,60371405,1,0.006,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/11/2016,AQS,60371405,1,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/13/2016,AQS,60371405,1,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/16/2016,AQS,60371405,1,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/19/2016,AQS,60371405,1,0.023,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/22/2016,AQS,60371405,1,0.016,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/24/2016,AQS,60371405,1,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/26/2016,AQS,60371405,1,0.011,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/4/2016,AQS,60371405,1,0.01,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/6/2016,AQS,60371405,1,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/9/2016,AQS,60371405,1,0.015,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/12/2016,AQS,60371405,1,0.006,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/15/2016,AQS,60371405,1,0.022,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/17/2016,AQS,60371405,1,0.02,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/22/2016,AQS,60371405,1,0.027,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/25/2016,AQS,60371405,1,0.011,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/28/2016,AQS,60371405,1,0.019,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/30/2016,AQS,60371405,1,0.015,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/3/2016,AQS,60371405,1,0.009,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/6/2016,AQS,60371405,1,0.023,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/11/2016,AQS,60371405,1,0.011,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/13/2016,AQS,60371405,1,0.016,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/19/2016,AQS,60371405,1,0.019,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/30/2016,AQS,60371405,1,0.011,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/2/2016,AQS,60371405,1,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/4/2016,AQS,60371405,1,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/6/2016,AQS,60371405,1,0.008,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/9/2016,AQS,60371405,1,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/12/2016,AQS,60371405,1,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/17/2016,AQS,60371405,1,0.015,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/20/2016,AQS,60371405,1,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/23/2016,AQS,60371405,1,0.028,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/26/2016,AQS,60371405,1,0.023,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/28/2016,AQS,60371405,1,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/30/2016,AQS,60371405,1,0.024,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/2/2016,AQS,60371405,1,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/5/2016,AQS,60371405,1,0.01,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/8/2016,AQS,60371405,1,0.016,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/10/2016,AQS,60371405,1,0.012,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/13/2016,AQS,60371405,1,0.024,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/16/2016,AQS,60371405,1,0.032,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/21/2016,AQS,60371405,1,0.02,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/23/2016,AQS,60371405,1,0.022,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/2/2016,AQS,60371405,1,0.01,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/4/2016,AQS,60371405,1,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/7/2016,AQS,60371405,1,0.026,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/10/2016,AQS,60371405,1,0.019,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/13/2016,AQS,60371405,1,0.016,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/15/2016,AQS,60371405,1,0.008,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/17/2016,AQS,60371405,1,0.007,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/16/2016,AQS,60371405,1,0.023,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/21/2016,AQS,60371405,1,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/24/2016,AQS,60371405,1,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/27/2016,AQS,60371405,1,0.02,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/30/2016,AQS,60371405,1,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/2/2016,AQS,60371405,1,0.022,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/4/2016,AQS,60371405,1,0.02,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/7/2016,AQS,60371405,1,0.019,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/10/2016,AQS,60371405,1,0.009,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/13/2016,AQS,60371405,1,0.015,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/15/2016,AQS,60371405,1,0.019,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/18/2016,AQS,60371405,1,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/21/2016,AQS,60371405,1,0.011,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/24/2016,AQS,60371405,1,0.003,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/26/2016,AQS,60371405,1,0.008,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/28/2016,AQS,60371405,1,0.022,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/31/2016,AQS,60371405,1,0.004,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/1/2016,AQS,60371405,2,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/4/2016,AQS,60371405,2,0.015,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/7/2016,AQS,60371405,2,0.004,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/10/2016,AQS,60371405,2,0.01,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/13/2016,AQS,60371405,2,0.028,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/16/2016,AQS,60371405,2,0.012,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/19/2016,AQS,60371405,2,0.021,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/22/2016,AQS,60371405,2,0.023,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/25/2016,AQS,60371405,2,0.024,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/28/2016,AQS,60371405,2,0.03,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/31/2016,AQS,60371405,2,0.03,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+2/3/2016,AQS,60371405,2,0.038,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+2/6/2016,AQS,60371405,2,0.03,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+2/9/2016,AQS,60371405,2,0.036,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+2/12/2016,AQS,60371405,2,0.053,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+2/15/2016,AQS,60371405,2,0.05,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+2/18/2016,AQS,60371405,2,0.011,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+2/21/2016,AQS,60371405,2,0.024,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+2/24/2016,AQS,60371405,2,0.025,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+2/27/2016,AQS,60371405,2,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+3/1/2016,AQS,60371405,2,0.015,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+3/4/2016,AQS,60371405,2,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+3/7/2016,AQS,60371405,2,0.024,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+3/10/2016,AQS,60371405,2,0.032,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+3/13/2016,AQS,60371405,2,0.008,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+3/16/2016,AQS,60371405,2,0.031,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+3/19/2016,AQS,60371405,2,0.01,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+3/22/2016,AQS,60371405,2,0.073,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+3/25/2016,AQS,60371405,2,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+3/28/2016,AQS,60371405,2,0.069,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+3/31/2016,AQS,60371405,2,0.02,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/3/2016,AQS,60371405,2,0.008,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/6/2016,AQS,60371405,2,0.02,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/9/2016,AQS,60371405,2,0.008,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/12/2016,AQS,60371405,2,0.015,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/15/2016,AQS,60371405,2,0.021,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/18/2016,AQS,60371405,2,0.019,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/21/2016,AQS,60371405,2,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/24/2016,AQS,60371405,2,0.009,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/27/2016,AQS,60371405,2,0.022,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+4/30/2016,AQS,60371405,2,0.012,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/3/2016,AQS,60371405,2,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/6/2016,AQS,60371405,2,0.016,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/9/2016,AQS,60371405,2,0.009,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/12/2016,AQS,60371405,2,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/15/2016,AQS,60371405,2,0.007,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/18/2016,AQS,60371405,2,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/21/2016,AQS,60371405,2,0.019,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/24/2016,AQS,60371405,2,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/27/2016,AQS,60371405,2,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/2/2016,AQS,60371405,2,0.016,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/5/2016,AQS,60371405,2,0.008,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/8/2016,AQS,60371405,2,0.021,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/11/2016,AQS,60371405,2,0.005,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/14/2016,AQS,60371405,2,0.044,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/17/2016,AQS,60371405,2,0.019,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/23/2016,AQS,60371405,2,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/26/2016,AQS,60371405,2,0.01,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/29/2016,AQS,60371405,2,0.015,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/2/2016,AQS,60371405,2,0.01,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/5/2016,AQS,60371405,2,0.015,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/8/2016,AQS,60371405,2,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/11/2016,AQS,60371405,2,0.012,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/14/2016,AQS,60371405,2,0.012,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/17/2016,AQS,60371405,2,0.006,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/20/2016,AQS,60371405,2,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/23/2016,AQS,60371405,2,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/26/2016,AQS,60371405,2,0.021,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/29/2016,AQS,60371405,2,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/1/2016,AQS,60371405,2,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/4/2016,AQS,60371405,2,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/7/2016,AQS,60371405,2,0.007,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/10/2016,AQS,60371405,2,0.011,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/13/2016,AQS,60371405,2,0.012,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/16/2016,AQS,60371405,2,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/19/2016,AQS,60371405,2,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/22/2016,AQS,60371405,2,0.02,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/25/2016,AQS,60371405,2,0.023,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/28/2016,AQS,60371405,2,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/31/2016,AQS,60371405,2,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/3/2016,AQS,60371405,2,0.012,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/6/2016,AQS,60371405,2,0.02,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/9/2016,AQS,60371405,2,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/12/2016,AQS,60371405,2,0.016,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/15/2016,AQS,60371405,2,0.015,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/18/2016,AQS,60371405,2,0.01,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/21/2016,AQS,60371405,2,0.019,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/24/2016,AQS,60371405,2,0.019,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/30/2016,AQS,60371405,2,0.021,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/3/2016,AQS,60371405,2,0.019,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/6/2016,AQS,60371405,2,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/9/2016,AQS,60371405,2,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/12/2016,AQS,60371405,2,0.012,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/15/2016,AQS,60371405,2,0.008,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/18/2016,AQS,60371405,2,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/24/2016,AQS,60371405,2,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/27/2016,AQS,60371405,2,0.026,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/30/2016,AQS,60371405,2,0.006,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/2/2016,AQS,60371405,2,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/5/2016,AQS,60371405,2,0.015,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/8/2016,AQS,60371405,2,0.021,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/11/2016,AQS,60371405,2,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/14/2016,AQS,60371405,2,0.026,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/17/2016,AQS,60371405,2,0.016,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/20/2016,AQS,60371405,2,0.02,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/23/2016,AQS,60371405,2,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/26/2016,AQS,60371405,2,0.021,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/2/2016,AQS,60371405,2,0.02,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/5/2016,AQS,60371405,2,0.027,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/8/2016,AQS,60371405,2,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/11/2016,AQS,60371405,2,0.006,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/14/2016,AQS,60371405,2,0.021,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/17/2016,AQS,60371405,2,0.012,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/20/2016,AQS,60371405,2,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/23/2016,AQS,60371405,2,0.006,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/26/2016,AQS,60371405,2,0.01,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/29/2016,AQS,60371405,2,0.016,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/2/2016,AQS,60371405,3,0.016,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/5/2016,AQS,60371405,3,0.008,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/8/2016,AQS,60371405,3,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/13/2016,AQS,60371405,3,0.026,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/15/2016,AQS,60371405,3,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/18/2016,AQS,60371405,3,0.015,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/21/2016,AQS,60371405,3,0.015,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/4/2016,AQS,60371405,3,0.015,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/7/2016,AQS,60371405,3,0.006,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/10/2016,AQS,60371405,3,0.012,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/12/2016,AQS,60371405,3,0.015,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/14/2016,AQS,60371405,3,0.012,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/17/2016,AQS,60371405,3,0.015,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+5/28/2016,AQS,60371405,3,0.01,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/1/2016,AQS,60371405,3,0.011,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/3/2016,AQS,60371405,3,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/5/2016,AQS,60371405,3,0.007,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/7/2016,AQS,60371405,3,0.012,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/10/2016,AQS,60371405,3,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/13/2016,AQS,60371405,3,0.008,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/16/2016,AQS,60371405,3,0.02,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/18/2016,AQS,60371405,3,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/21/2016,AQS,60371405,3,0.019,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/24/2016,AQS,60371405,3,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/27/2016,AQS,60371405,3,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+6/29/2016,AQS,60371405,3,0.015,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/1/2016,AQS,60371405,3,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/4/2016,AQS,60371405,3,0.008,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/7/2016,AQS,60371405,3,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/10/2016,AQS,60371405,3,0.007,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/12/2016,AQS,60371405,3,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/15/2016,AQS,60371405,3,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/18/2016,AQS,60371405,3,0.011,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/21/2016,AQS,60371405,3,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/23/2016,AQS,60371405,3,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/25/2016,AQS,60371405,3,0.011,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/28/2016,AQS,60371405,3,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+7/31/2016,AQS,60371405,3,0.008,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/3/2016,AQS,60371405,3,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/5/2016,AQS,60371405,3,0.012,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/8/2016,AQS,60371405,3,0.011,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/11/2016,AQS,60371405,3,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/14/2016,AQS,60371405,3,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/18/2016,AQS,60371405,3,0.015,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/21/2016,AQS,60371405,3,0.011,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/24/2016,AQS,60371405,3,0.027,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/27/2016,AQS,60371405,3,0.023,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+8/29/2016,AQS,60371405,3,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/1/2016,AQS,60371405,3,0.021,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/4/2016,AQS,60371405,3,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/7/2016,AQS,60371405,3,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/9/2016,AQS,60371405,3,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/11/2016,AQS,60371405,3,0.011,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/14/2016,AQS,60371405,3,0.016,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/17/2016,AQS,60371405,3,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/20/2016,AQS,60371405,3,0.022,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/22/2016,AQS,60371405,3,0.024,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+9/25/2016,AQS,60371405,3,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/1/2016,AQS,60371405,3,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/3/2016,AQS,60371405,3,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/5/2016,AQS,60371405,3,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/8/2016,AQS,60371405,3,0.016,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/11/2016,AQS,60371405,3,0.012,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/14/2016,AQS,60371405,3,0.016,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/16/2016,AQS,60371405,3,0.01,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/19/2016,AQS,60371405,3,0.025,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/22/2016,AQS,60371405,3,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/25/2016,AQS,60371405,3,0.016,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/27/2016,AQS,60371405,3,0.021,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+10/29/2016,AQS,60371405,3,0.008,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/1/2016,AQS,60371405,3,0.016,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/4/2016,AQS,60371405,3,0.019,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/7/2016,AQS,60371405,3,0.019,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/9/2016,AQS,60371405,3,0.016,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/12/2016,AQS,60371405,3,0.016,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/15/2016,AQS,60371405,3,0.021,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/18/2016,AQS,60371405,3,0.015,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/20/2016,AQS,60371405,3,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/22/2016,AQS,60371405,3,0.016,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/25/2016,AQS,60371405,3,0.009,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+11/28/2016,AQS,60371405,3,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/1/2016,AQS,60371405,3,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/3/2016,AQS,60371405,3,0.017,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/6/2016,AQS,60371405,3,0.014,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/9/2016,AQS,60371405,3,0.012,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/12/2016,AQS,60371405,3,0.01,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/14/2016,AQS,60371405,3,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/16/2016,AQS,60371405,3,0.018,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/19/2016,AQS,60371405,3,0.013,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/22/2016,AQS,60371405,3,0.005,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/25/2016,AQS,60371405,3,0.006,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/27/2016,AQS,60371405,3,0.012,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+12/30/2016,AQS,60371405,3,0.008,ug/m3 LC,.,Rehrig (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.006389,-118.193056
+1/4/2016,AQS,60371406,1,0.016,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+1/10/2016,AQS,60371406,1,0.015,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+1/16/2016,AQS,60371406,1,0.012,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+1/22/2016,AQS,60371406,1,0.027,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+1/28/2016,AQS,60371406,1,0.028,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+2/3/2016,AQS,60371406,1,0.018,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+2/9/2016,AQS,60371406,1,0.028,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+2/15/2016,AQS,60371406,1,0.047,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+2/21/2016,AQS,60371406,1,0.031,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+2/27/2016,AQS,60371406,1,0.012,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+3/4/2016,AQS,60371406,1,0.011,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+3/10/2016,AQS,60371406,1,0.027,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+3/16/2016,AQS,60371406,1,0.044,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+3/22/2016,AQS,60371406,1,0.027,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+3/28/2016,AQS,60371406,1,0.014,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+4/3/2016,AQS,60371406,1,0.007,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+4/9/2016,AQS,60371406,1,0.011,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+4/15/2016,AQS,60371406,1,0.016,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+4/21/2016,AQS,60371406,1,0.012,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+4/27/2016,AQS,60371406,1,0.012,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+5/3/2016,AQS,60371406,1,0.011,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+5/9/2016,AQS,60371406,1,0.007,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+5/15/2016,AQS,60371406,1,0.006,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+5/21/2016,AQS,60371406,1,0.009,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+5/27/2016,AQS,60371406,1,0.009,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+6/2/2016,AQS,60371406,1,0.011,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+6/8/2016,AQS,60371406,1,0.009,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+6/14/2016,AQS,60371406,1,0.025,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+6/20/2016,AQS,60371406,1,0.014,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+6/26/2016,AQS,60371406,1,0.01,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+7/8/2016,AQS,60371406,1,0.01,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+7/14/2016,AQS,60371406,1,0.009,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+7/20/2016,AQS,60371406,1,0.01,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+7/26/2016,AQS,60371406,1,0.015,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+8/1/2016,AQS,60371406,1,0.008,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+8/7/2016,AQS,60371406,1,0.008,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+8/13/2016,AQS,60371406,1,0.008,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+8/19/2016,AQS,60371406,1,0.012,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+8/25/2016,AQS,60371406,1,0.014,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+8/31/2016,AQS,60371406,1,0.013,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+9/6/2016,AQS,60371406,1,0.009,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+9/12/2016,AQS,60371406,1,0.009,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+9/18/2016,AQS,60371406,1,0.012,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+9/24/2016,AQS,60371406,1,0.014,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+9/30/2016,AQS,60371406,1,0.016,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+10/6/2016,AQS,60371406,1,0.014,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+10/12/2016,AQS,60371406,1,0.009,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+10/18/2016,AQS,60371406,1,0.009,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+10/24/2016,AQS,60371406,1,0.013,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+10/30/2016,AQS,60371406,1,0.006,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+11/5/2016,AQS,60371406,1,0.013,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+11/11/2016,AQS,60371406,1,0.015,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+11/17/2016,AQS,60371406,1,0.012,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+11/23/2016,AQS,60371406,1,0.014,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+11/29/2016,AQS,60371406,1,0.011,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+12/5/2016,AQS,60371406,1,0.015,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+12/11/2016,AQS,60371406,1,0.007,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+12/17/2016,AQS,60371406,1,0.01,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+12/23/2016,AQS,60371406,1,0.009,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+12/29/2016,AQS,60371406,1,0.014,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+1/1/2016,AQS,60371406,2,0.03,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+1/7/2016,AQS,60371406,2,0.011,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+1/13/2016,AQS,60371406,2,0.031,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+1/19/2016,AQS,60371406,2,0.021,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+1/25/2016,AQS,60371406,2,0.025,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+1/31/2016,AQS,60371406,2,0.015,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+2/6/2016,AQS,60371406,2,0.028,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+2/12/2016,AQS,60371406,2,0.059,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+2/18/2016,AQS,60371406,2,0.012,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+2/24/2016,AQS,60371406,2,0.013,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+3/1/2016,AQS,60371406,2,0.016,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+3/7/2016,AQS,60371406,2,0.015,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+3/13/2016,AQS,60371406,2,0.008,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+3/19/2016,AQS,60371406,2,0.012,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+3/25/2016,AQS,60371406,2,0.011,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+3/31/2016,AQS,60371406,2,0.009,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+4/6/2016,AQS,60371406,2,0.014,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+4/12/2016,AQS,60371406,2,0.009,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+4/18/2016,AQS,60371406,2,0.015,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+4/24/2016,AQS,60371406,2,0.011,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+4/30/2016,AQS,60371406,2,0.008,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+5/6/2016,AQS,60371406,2,0.009,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+5/12/2016,AQS,60371406,2,0.013,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+5/18/2016,AQS,60371406,2,0.012,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+5/24/2016,AQS,60371406,2,0.007,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+5/30/2016,AQS,60371406,2,0.007,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+6/5/2016,AQS,60371406,2,0.009,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+6/11/2016,AQS,60371406,2,0.004,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+6/17/2016,AQS,60371406,2,0.012,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+7/23/2016,AQS,60371406,2,0.011,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+7/29/2016,AQS,60371406,2,0.011,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+8/4/2016,AQS,60371406,2,0.01,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+8/10/2016,AQS,60371406,2,0.008,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+8/16/2016,AQS,60371406,2,0.01,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+8/22/2016,AQS,60371406,2,0.01,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+8/28/2016,AQS,60371406,2,0.009,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+9/3/2016,AQS,60371406,2,0.01,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+9/9/2016,AQS,60371406,2,0.012,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+9/15/2016,AQS,60371406,2,0.011,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+9/21/2016,AQS,60371406,2,0.013,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+9/27/2016,AQS,60371406,2,0.016,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+10/3/2016,AQS,60371406,2,0.011,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+10/9/2016,AQS,60371406,2,0.013,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+10/15/2016,AQS,60371406,2,0.007,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+11/20/2016,AQS,60371406,2,0.013,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+11/26/2016,AQS,60371406,2,0.014,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+12/2/2016,AQS,60371406,2,0.017,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+12/8/2016,AQS,60371406,2,0.014,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+12/14/2016,AQS,60371406,2,0.018,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+12/20/2016,AQS,60371406,2,0.012,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+12/26/2016,AQS,60371406,2,0.013,ug/m3 LC,.,ATSF (Exide),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.008333,-118.190556
+1/1/2016,AQS,60371602,1,0.01,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+1/7/2016,AQS,60371602,1,0.003,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+1/13/2016,AQS,60371602,1,0.009,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+1/19/2016,AQS,60371602,1,0.006,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+1/25/2016,AQS,60371602,1,0.007,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+1/31/2016,AQS,60371602,1,0.002,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+2/6/2016,AQS,60371602,1,0.007,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+2/12/2016,AQS,60371602,1,0.012,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+2/18/2016,AQS,60371602,1,0.003,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+2/24/2016,AQS,60371602,1,0.006,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+3/1/2016,AQS,60371602,1,0.007,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+3/7/2016,AQS,60371602,1,0.002,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+3/13/2016,AQS,60371602,1,0.002,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+3/19/2016,AQS,60371602,1,0.006,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+3/25/2016,AQS,60371602,1,0.007,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+3/31/2016,AQS,60371602,1,0.004,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+4/6/2016,AQS,60371602,1,0.008,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+4/12/2016,AQS,60371602,1,0.006,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+4/18/2016,AQS,60371602,1,0.009,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+4/24/2016,AQS,60371602,1,0.021,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+4/30/2016,AQS,60371602,1,0.009,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+5/12/2016,AQS,60371602,1,0.006,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+5/18/2016,AQS,60371602,1,0.01,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+5/24/2016,AQS,60371602,1,0.005,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+5/30/2016,AQS,60371602,1,0.009,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+6/5/2016,AQS,60371602,1,0.008,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+6/11/2016,AQS,60371602,1,0.003,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+6/17/2016,AQS,60371602,1,0.009,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+6/29/2016,AQS,60371602,1,0.011,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+7/5/2016,AQS,60371602,1,0.007,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+7/11/2016,AQS,60371602,1,0.004,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+7/17/2016,AQS,60371602,1,0.005,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+7/23/2016,AQS,60371602,1,0.008,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+7/29/2016,AQS,60371602,1,0.01,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+8/4/2016,AQS,60371602,1,0.006,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+8/10/2016,AQS,60371602,1,0.008,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+8/16/2016,AQS,60371602,1,0.011,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+8/22/2016,AQS,60371602,1,0.009,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+8/28/2016,AQS,60371602,1,0.006,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+9/9/2016,AQS,60371602,1,0.007,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+9/15/2016,AQS,60371602,1,0.006,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+9/21/2016,AQS,60371602,1,0.001,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+9/27/2016,AQS,60371602,1,0.017,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+10/3/2016,AQS,60371602,1,0.008,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+10/9/2016,AQS,60371602,1,0.009,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+10/15/2016,AQS,60371602,1,0.005,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+10/21/2016,AQS,60371602,1,0.009,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+10/27/2016,AQS,60371602,1,0.014,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+11/2/2016,AQS,60371602,1,0.009,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+11/8/2016,AQS,60371602,1,0.013,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+11/14/2016,AQS,60371602,1,0.013,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+11/20/2016,AQS,60371602,1,0.007,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+11/26/2016,AQS,60371602,1,0.006,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+12/2/2016,AQS,60371602,1,0.01,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+12/8/2016,AQS,60371602,1,0.008,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+12/14/2016,AQS,60371602,1,0.01,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+12/20/2016,AQS,60371602,1,0.005,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+12/26/2016,AQS,60371602,1,0.003,ug/m3 LC,.,Pico Rivera #2,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,34.01029,-118.0685
+1/21/2016,AQS,60374004,2,0.005,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+1/27/2016,AQS,60374004,2,0.01,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+2/3/2016,AQS,60374004,2,0.005,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+2/6/2016,AQS,60374004,2,0.008,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+2/12/2016,AQS,60374004,2,0.01,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+2/18/2016,AQS,60374004,2,0.002,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+2/24/2016,AQS,60374004,2,0.006,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+3/1/2016,AQS,60374004,2,0.004,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+3/7/2016,AQS,60374004,2,0.003,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+3/13/2016,AQS,60374004,2,0.001,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+3/19/2016,AQS,60374004,2,0.004,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+3/31/2016,AQS,60374004,2,0.003,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+4/6/2016,AQS,60374004,2,0.005,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+4/12/2016,AQS,60374004,2,0.004,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+4/18/2016,AQS,60374004,2,0.006,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+4/24/2016,AQS,60374004,2,0.005,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+4/30/2016,AQS,60374004,2,0.003,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+5/6/2016,AQS,60374004,2,0.002,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+5/12/2016,AQS,60374004,2,0.006,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+5/24/2016,AQS,60374004,2,0.003,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+5/30/2016,AQS,60374004,2,0.002,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+6/5/2016,AQS,60374004,2,0.003,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+6/11/2016,AQS,60374004,2,0.001,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+6/17/2016,AQS,60374004,2,0.005,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+6/23/2016,AQS,60374004,2,0.003,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+6/29/2016,AQS,60374004,2,0.005,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+7/5/2016,AQS,60374004,2,0.003,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+7/11/2016,AQS,60374004,2,0.002,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+7/17/2016,AQS,60374004,2,0.002,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+7/23/2016,AQS,60374004,2,0.003,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+7/29/2016,AQS,60374004,2,0.004,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+8/4/2016,AQS,60374004,2,0.003,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+8/10/2016,AQS,60374004,2,0.003,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+8/16/2016,AQS,60374004,2,0.004,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+8/22/2016,AQS,60374004,2,0.004,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+8/28/2016,AQS,60374004,2,0.003,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+9/3/2016,AQS,60374004,2,0.002,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+9/9/2016,AQS,60374004,2,0.003,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+9/15/2016,AQS,60374004,2,0.004,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+9/21/2016,AQS,60374004,2,0.005,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+9/27/2016,AQS,60374004,2,0.008,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+10/3/2016,AQS,60374004,2,0.006,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+10/9/2016,AQS,60374004,2,0.006,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+10/15/2016,AQS,60374004,2,0.003,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+10/21/2016,AQS,60374004,2,0.007,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+10/27/2016,AQS,60374004,2,0.01,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+11/2/2016,AQS,60374004,2,0.008,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+11/8/2016,AQS,60374004,2,0.012,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+11/14/2016,AQS,60374004,2,0.007,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+11/20/2016,AQS,60374004,2,0.005,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+11/26/2016,AQS,60374004,2,0.006,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+12/2/2016,AQS,60374004,2,0.008,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+12/8/2016,AQS,60374004,2,0.006,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+12/14/2016,AQS,60374004,2,0.01,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+12/21/2016,AQS,60374004,2,0.005,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+12/26/2016,AQS,60374004,2,0.003,ug/m3 LC,.,Long Beach (South),1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.79236,-118.17533
+1/1/2016,AQS,60375005,1,0.005,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+1/13/2016,AQS,60375005,1,0.005,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+1/19/2016,AQS,60375005,1,0.001,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+1/25/2016,AQS,60375005,1,0.003,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+1/31/2016,AQS,60375005,1,0.002,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+2/6/2016,AQS,60375005,1,0.003,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+2/12/2016,AQS,60375005,1,0.007,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+2/18/2016,AQS,60375005,1,0.001,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+2/24/2016,AQS,60375005,1,0.003,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+3/1/2016,AQS,60375005,1,0.004,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+3/13/2016,AQS,60375005,1,0.002,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+3/19/2016,AQS,60375005,1,0.002,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+3/25/2016,AQS,60375005,1,0.002,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+3/31/2016,AQS,60375005,1,0.002,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+4/6/2016,AQS,60375005,1,0.002,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+4/12/2016,AQS,60375005,1,0.002,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+4/18/2016,AQS,60375005,1,0.005,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+4/24/2016,AQS,60375005,1,0.002,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+4/30/2016,AQS,60375005,1,0.001,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+5/6/2016,AQS,60375005,1,0.001,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+5/12/2016,AQS,60375005,1,0.002,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+5/18/2016,AQS,60375005,1,0.001,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+5/24/2016,AQS,60375005,1,0.001,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+5/30/2016,AQS,60375005,1,0.001,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+6/11/2016,AQS,60375005,1,0.002,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+6/17/2016,AQS,60375005,1,0.001,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+6/23/2016,AQS,60375005,1,0.002,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+6/29/2016,AQS,60375005,1,0.001,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+7/5/2016,AQS,60375005,1,0.001,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+7/11/2016,AQS,60375005,1,0.001,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+7/17/2016,AQS,60375005,1,0,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+7/23/2016,AQS,60375005,1,0.003,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+7/29/2016,AQS,60375005,1,0,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+8/4/2016,AQS,60375005,1,0.001,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+8/10/2016,AQS,60375005,1,0.001,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+8/16/2016,AQS,60375005,1,0,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+8/22/2016,AQS,60375005,1,0.001,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+8/28/2016,AQS,60375005,1,0.001,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+9/3/2016,AQS,60375005,1,0.001,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+9/9/2016,AQS,60375005,1,0.001,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+9/15/2016,AQS,60375005,1,0.002,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+9/21/2016,AQS,60375005,1,0.013,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+9/27/2016,AQS,60375005,1,0.005,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+10/3/2016,AQS,60375005,1,0.002,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+10/9/2016,AQS,60375005,1,0.003,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+10/15/2016,AQS,60375005,1,0.001,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+10/21/2016,AQS,60375005,1,0.004,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+10/27/2016,AQS,60375005,1,0.002,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+11/2/2016,AQS,60375005,1,0.005,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+11/8/2016,AQS,60375005,1,0.005,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+11/14/2016,AQS,60375005,1,0.005,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+11/20/2016,AQS,60375005,1,0.002,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+11/26/2016,AQS,60375005,1,0.003,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+12/2/2016,AQS,60375005,1,0.007,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+12/8/2016,AQS,60375005,1,0.011,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+12/14/2016,AQS,60375005,1,0.003,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+12/21/2016,AQS,60375005,1,0.005,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
+12/26/2016,AQS,60375005,1,0.004,ug/m3 LC,.,LAX Hastings,1,100,14129,Lead (TSP) LC,31080,"Los Angeles-Long Beach-Anaheim, CA",6,California,37,Los Angeles,33.95507,-118.43049
