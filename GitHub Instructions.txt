@@ -8,9 +8,8 @@ To clone the repo:
 
 4)in the folder for your project type in:
 	git checkout -b <your initials> <enter>
-	the branch will now show your initials
-
-5)when you check in your work do this:
+	the branch will now show your initials git add
+	
 	git add -A <enter>
 	git commit -M "comments" <enter>
 	git push origin <your initials> <enter>
