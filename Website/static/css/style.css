@@ -30,3 +30,15 @@ body {
   font-size: 16px;
 }
 
+
+#container {
+  width: 40%;
+  height: 40%; 
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+
+ul, li, p{
+  font-size: 14px;
+}

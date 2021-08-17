@@ -1,0 +1,5 @@
+=IF(B2<=50,"Good",IF(B2=100,"Satisfactory",IF(B2<=200,"Moderate Pollution",IF(B2<=300,"Poor",IF(B2<=400,"Very Poor",IF(B2>401,"Severe",0))))))
+
+=vlookup(max(c2:g2),c2:g2,2,True)
+
+=hlookup(max(c2:g2),c2:g2,1,False)	

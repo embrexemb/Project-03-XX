@@ -1,0 +1,227 @@
+Date,Source,Site ID,POC,Daily Mean PM10 Concentration,UNITS,DAILY_AQI_VALUE,Site Name,DAILY_OBS_COUNT,PERCENT_COMPLETE,AQS_PARAMETER_CODE,AQS_PARAMETER_DESC,CBSA_CODE,CBSA_NAME,STATE_CODE,STATE,COUNTY_CODE,COUNTY,SITE_LATITUDE,SITE_LONGITUDE
+1/1/2016,AQS,340130003,1,3,ug/m3 SC,3,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+1/4/2016,AQS,340130003,1,4,ug/m3 SC,4,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+1/7/2016,AQS,340130003,1,45,ug/m3 SC,42,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+1/10/2016,AQS,340130003,1,12,ug/m3 SC,11,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+1/13/2016,AQS,340130003,1,10,ug/m3 SC,9,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+1/16/2016,AQS,340130003,1,7,ug/m3 SC,6,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+1/19/2016,AQS,340130003,1,6,ug/m3 SC,6,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+1/22/2016,AQS,340130003,1,6,ug/m3 SC,6,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+1/25/2016,AQS,340130003,1,23,ug/m3 SC,21,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+1/28/2016,AQS,340130003,1,26,ug/m3 SC,24,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+1/31/2016,AQS,340130003,1,21,ug/m3 SC,19,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+2/3/2016,AQS,340130003,1,16,ug/m3 SC,15,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+2/6/2016,AQS,340130003,1,13,ug/m3 SC,12,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+2/9/2016,AQS,340130003,1,17,ug/m3 SC,16,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+2/12/2016,AQS,340130003,1,8,ug/m3 SC,7,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+2/15/2016,AQS,340130003,1,20,ug/m3 SC,19,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+2/18/2016,AQS,340130003,1,6,ug/m3 SC,6,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+2/21/2016,AQS,340130003,1,10,ug/m3 SC,9,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+2/24/2016,AQS,340130003,1,8,ug/m3 SC,7,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+2/27/2016,AQS,340130003,1,6,ug/m3 SC,6,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+3/1/2016,AQS,340130003,1,13,ug/m3 SC,12,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+3/4/2016,AQS,340130003,1,12,ug/m3 SC,11,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+3/7/2016,AQS,340130003,1,20,ug/m3 SC,19,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+3/10/2016,AQS,340130003,1,24,ug/m3 SC,22,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+3/13/2016,AQS,340130003,1,11,ug/m3 SC,10,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+3/16/2016,AQS,340130003,1,19,ug/m3 SC,18,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+3/19/2016,AQS,340130003,1,4,ug/m3 SC,4,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+3/22/2016,AQS,340130003,1,10,ug/m3 SC,9,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+3/25/2016,AQS,340130003,1,27,ug/m3 SC,25,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+3/28/2016,AQS,340130003,1,6,ug/m3 SC,6,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+3/31/2016,AQS,340130003,1,20,ug/m3 SC,19,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+4/3/2016,AQS,340130003,1,4,ug/m3 SC,4,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+4/6/2016,AQS,340130003,1,14,ug/m3 SC,13,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+4/9/2016,AQS,340130003,1,7,ug/m3 SC,6,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+4/12/2016,AQS,340130003,1,8,ug/m3 SC,7,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+4/15/2016,AQS,340130003,1,33,ug/m3 SC,31,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+4/18/2016,AQS,340130003,1,24,ug/m3 SC,22,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+4/21/2016,AQS,340130003,1,21,ug/m3 SC,19,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+4/24/2016,AQS,340130003,1,11,ug/m3 SC,10,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+4/27/2016,AQS,340130003,1,12,ug/m3 SC,11,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+4/30/2016,AQS,340130003,1,11,ug/m3 SC,10,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+5/3/2016,AQS,340130003,1,11,ug/m3 SC,10,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+5/6/2016,AQS,340130003,1,8,ug/m3 SC,7,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+5/9/2016,AQS,340130003,1,15,ug/m3 SC,14,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+5/12/2016,AQS,340130003,1,28,ug/m3 SC,26,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+5/15/2016,AQS,340130003,1,5,ug/m3 SC,5,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+5/18/2016,AQS,340130003,1,11,ug/m3 SC,10,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+5/21/2016,AQS,340130003,1,17,ug/m3 SC,16,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+5/24/2016,AQS,340130003,1,12,ug/m3 SC,11,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+5/27/2016,AQS,340130003,1,39,ug/m3 SC,36,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+5/30/2016,AQS,340130003,1,7,ug/m3 SC,6,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+6/2/2016,AQS,340130003,1,20,ug/m3 SC,19,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+6/5/2016,AQS,340130003,1,11,ug/m3 SC,10,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+6/8/2016,AQS,340130003,1,7,ug/m3 SC,6,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+6/11/2016,AQS,340130003,1,24,ug/m3 SC,22,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+6/14/2016,AQS,340130003,1,7,ug/m3 SC,6,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+6/17/2016,AQS,340130003,1,17,ug/m3 SC,16,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+6/20/2016,AQS,340130003,1,26,ug/m3 SC,24,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+6/23/2016,AQS,340130003,1,24,ug/m3 SC,22,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+6/26/2016,AQS,340130003,1,21,ug/m3 SC,19,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+6/29/2016,AQS,340130003,1,10,ug/m3 SC,9,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+7/2/2016,AQS,340130003,1,8,ug/m3 SC,7,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+7/5/2016,AQS,340130003,1,8,ug/m3 SC,7,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+7/11/2016,AQS,340130003,1,7,ug/m3 SC,6,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+7/14/2016,AQS,340130003,1,22,ug/m3 SC,20,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+7/17/2016,AQS,340130003,1,15,ug/m3 SC,14,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+7/20/2016,AQS,340130003,1,11,ug/m3 SC,10,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+7/23/2016,AQS,340130003,1,14,ug/m3 SC,13,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+7/26/2016,AQS,340130003,1,11,ug/m3 SC,10,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+7/29/2016,AQS,340130003,1,15,ug/m3 SC,14,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+8/1/2016,AQS,340130003,1,16,ug/m3 SC,15,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+8/4/2016,AQS,340130003,1,15,ug/m3 SC,14,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+8/7/2016,AQS,340130003,1,7,ug/m3 SC,6,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+8/10/2016,AQS,340130003,1,17,ug/m3 SC,16,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+8/13/2016,AQS,340130003,1,16,ug/m3 SC,15,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+8/16/2016,AQS,340130003,1,17,ug/m3 SC,16,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+8/19/2016,AQS,340130003,1,17,ug/m3 SC,16,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+8/22/2016,AQS,340130003,1,8,ug/m3 SC,7,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+8/25/2016,AQS,340130003,1,19,ug/m3 SC,18,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+8/28/2016,AQS,340130003,1,15,ug/m3 SC,14,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+8/31/2016,AQS,340130003,1,20,ug/m3 SC,19,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+9/3/2016,AQS,340130003,1,59,ug/m3 SC,53,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+9/6/2016,AQS,340130003,1,11,ug/m3 SC,10,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+9/9/2016,AQS,340130003,1,17,ug/m3 SC,16,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+9/12/2016,AQS,340130003,1,12,ug/m3 SC,11,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+9/15/2016,AQS,340130003,1,7,ug/m3 SC,6,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+9/18/2016,AQS,340130003,1,15,ug/m3 SC,14,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+9/21/2016,AQS,340130003,1,15,ug/m3 SC,14,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+9/30/2016,AQS,340130003,1,9,ug/m3 SC,8,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+10/3/2016,AQS,340130003,1,13,ug/m3 SC,12,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+10/6/2016,AQS,340130003,1,28,ug/m3 SC,26,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+10/9/2016,AQS,340130003,1,7,ug/m3 SC,6,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+10/12/2016,AQS,340130003,1,21,ug/m3 SC,19,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+10/15/2016,AQS,340130003,1,11,ug/m3 SC,10,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+10/18/2016,AQS,340130003,1,25,ug/m3 SC,23,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+10/21/2016,AQS,340130003,1,20,ug/m3 SC,19,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+10/24/2016,AQS,340130003,1,9,ug/m3 SC,8,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+10/27/2016,AQS,340130003,1,8,ug/m3 SC,7,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+10/30/2016,AQS,340130003,1,16,ug/m3 SC,15,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+11/2/2016,AQS,340130003,1,38,ug/m3 SC,35,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+11/5/2016,AQS,340130003,1,10,ug/m3 SC,9,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+11/8/2016,AQS,340130003,1,30,ug/m3 SC,28,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+11/11/2016,AQS,340130003,1,9,ug/m3 SC,8,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+11/17/2016,AQS,340130003,1,14,ug/m3 SC,13,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+11/20/2016,AQS,340130003,1,3,ug/m3 SC,3,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+11/23/2016,AQS,340130003,1,6,ug/m3 SC,6,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+11/26/2016,AQS,340130003,1,9,ug/m3 SC,8,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+11/29/2016,AQS,340130003,1,12,ug/m3 SC,11,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+12/2/2016,AQS,340130003,1,6,ug/m3 SC,6,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+12/5/2016,AQS,340130003,1,11,ug/m3 SC,10,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+12/8/2016,AQS,340130003,1,13,ug/m3 SC,12,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+12/11/2016,AQS,340130003,1,13,ug/m3 SC,12,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+12/17/2016,AQS,340130003,1,15,ug/m3 SC,14,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+12/20/2016,AQS,340130003,1,13,ug/m3 SC,12,Newark Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,13,Essex,40.720989,-74.192892
+1/1/2016,AQS,340171003,2,3,ug/m3 SC,3,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+1/7/2016,AQS,340171003,2,50,ug/m3 SC,46,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+1/13/2016,AQS,340171003,2,12,ug/m3 SC,11,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+1/19/2016,AQS,340171003,2,15,ug/m3 SC,14,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+1/25/2016,AQS,340171003,2,19,ug/m3 SC,18,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+1/31/2016,AQS,340171003,2,19,ug/m3 SC,18,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+2/6/2016,AQS,340171003,2,14,ug/m3 SC,13,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+2/12/2016,AQS,340171003,2,12,ug/m3 SC,11,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+2/18/2016,AQS,340171003,2,10,ug/m3 SC,9,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+2/24/2016,AQS,340171003,2,11,ug/m3 SC,10,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+3/1/2016,AQS,340171003,2,15,ug/m3 SC,14,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+3/7/2016,AQS,340171003,2,28,ug/m3 SC,26,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+3/13/2016,AQS,340171003,2,12,ug/m3 SC,11,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+3/19/2016,AQS,340171003,2,5,ug/m3 SC,5,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+4/6/2016,AQS,340171003,2,13,ug/m3 SC,12,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+4/12/2016,AQS,340171003,2,11,ug/m3 SC,10,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+4/18/2016,AQS,340171003,2,18,ug/m3 SC,17,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+4/24/2016,AQS,340171003,2,10,ug/m3 SC,9,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+4/30/2016,AQS,340171003,2,15,ug/m3 SC,14,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+5/6/2016,AQS,340171003,2,9,ug/m3 SC,8,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+5/12/2016,AQS,340171003,2,31,ug/m3 SC,29,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+5/18/2016,AQS,340171003,2,15,ug/m3 SC,14,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+5/24/2016,AQS,340171003,2,15,ug/m3 SC,14,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+6/5/2016,AQS,340171003,2,10,ug/m3 SC,9,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+6/11/2016,AQS,340171003,2,25,ug/m3 SC,23,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+6/17/2016,AQS,340171003,2,22,ug/m3 SC,20,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+6/23/2016,AQS,340171003,2,32,ug/m3 SC,30,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+6/29/2016,AQS,340171003,2,15,ug/m3 SC,14,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+7/5/2016,AQS,340171003,2,10,ug/m3 SC,9,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+7/11/2016,AQS,340171003,2,11,ug/m3 SC,10,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+7/17/2016,AQS,340171003,2,16,ug/m3 SC,15,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+7/23/2016,AQS,340171003,2,19,ug/m3 SC,18,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+7/29/2016,AQS,340171003,2,17,ug/m3 SC,16,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+8/4/2016,AQS,340171003,2,15,ug/m3 SC,14,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+8/10/2016,AQS,340171003,2,19,ug/m3 SC,18,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+8/16/2016,AQS,340171003,2,21,ug/m3 SC,19,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+8/22/2016,AQS,340171003,2,14,ug/m3 SC,13,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+8/28/2016,AQS,340171003,2,18,ug/m3 SC,17,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+9/3/2016,AQS,340171003,2,13,ug/m3 SC,12,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+9/9/2016,AQS,340171003,2,25,ug/m3 SC,23,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+9/15/2016,AQS,340171003,2,10,ug/m3 SC,9,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+9/21/2016,AQS,340171003,2,21,ug/m3 SC,19,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+9/27/2016,AQS,340171003,2,13,ug/m3 SC,12,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+10/3/2016,AQS,340171003,2,17,ug/m3 SC,16,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+10/9/2016,AQS,340171003,2,7,ug/m3 SC,6,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+10/15/2016,AQS,340171003,2,14,ug/m3 SC,13,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+10/21/2016,AQS,340171003,2,11,ug/m3 SC,10,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+10/27/2016,AQS,340171003,2,10,ug/m3 SC,9,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+11/8/2016,AQS,340171003,2,25,ug/m3 SC,23,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+11/14/2016,AQS,340171003,2,28,ug/m3 SC,26,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+11/20/2016,AQS,340171003,2,2,ug/m3 SC,2,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+11/26/2016,AQS,340171003,2,15,ug/m3 SC,14,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+12/2/2016,AQS,340171003,2,7,ug/m3 SC,6,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+12/8/2016,AQS,340171003,2,15,ug/m3 SC,14,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+12/14/2016,AQS,340171003,2,18,ug/m3 SC,17,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+12/20/2016,AQS,340171003,2,20,ug/m3 SC,19,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+12/26/2016,AQS,340171003,2,13,ug/m3 SC,12,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+1/1/2016,AQS,340171003,3,3,ug/m3 SC,3,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+1/7/2016,AQS,340171003,3,56,ug/m3 SC,51,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+1/13/2016,AQS,340171003,3,13,ug/m3 SC,12,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+1/19/2016,AQS,340171003,3,17,ug/m3 SC,16,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+1/25/2016,AQS,340171003,3,21,ug/m3 SC,19,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+1/31/2016,AQS,340171003,3,20,ug/m3 SC,19,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+2/6/2016,AQS,340171003,3,15,ug/m3 SC,14,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+2/12/2016,AQS,340171003,3,16,ug/m3 SC,15,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+2/18/2016,AQS,340171003,3,11,ug/m3 SC,10,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+3/1/2016,AQS,340171003,3,16,ug/m3 SC,15,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+3/7/2016,AQS,340171003,3,30,ug/m3 SC,28,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+3/25/2016,AQS,340171003,3,25,ug/m3 SC,23,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+4/6/2016,AQS,340171003,3,16,ug/m3 SC,15,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+4/12/2016,AQS,340171003,3,11,ug/m3 SC,10,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+4/18/2016,AQS,340171003,3,27,ug/m3 SC,25,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+4/24/2016,AQS,340171003,3,11,ug/m3 SC,10,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+4/30/2016,AQS,340171003,3,13,ug/m3 SC,12,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+5/6/2016,AQS,340171003,3,9,ug/m3 SC,8,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+5/12/2016,AQS,340171003,3,33,ug/m3 SC,31,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+5/18/2016,AQS,340171003,3,16,ug/m3 SC,15,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+5/24/2016,AQS,340171003,3,15,ug/m3 SC,14,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+5/30/2016,AQS,340171003,3,10,ug/m3 SC,9,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+6/5/2016,AQS,340171003,3,11,ug/m3 SC,10,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+6/11/2016,AQS,340171003,3,25,ug/m3 SC,23,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+6/17/2016,AQS,340171003,3,21,ug/m3 SC,19,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+6/23/2016,AQS,340171003,3,32,ug/m3 SC,30,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+6/29/2016,AQS,340171003,3,15,ug/m3 SC,14,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+7/5/2016,AQS,340171003,3,10,ug/m3 SC,9,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+7/17/2016,AQS,340171003,3,16,ug/m3 SC,15,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+7/23/2016,AQS,340171003,3,18,ug/m3 SC,17,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+7/29/2016,AQS,340171003,3,18,ug/m3 SC,17,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+8/4/2016,AQS,340171003,3,15,ug/m3 SC,14,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+8/10/2016,AQS,340171003,3,17,ug/m3 SC,16,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+8/16/2016,AQS,340171003,3,21,ug/m3 SC,19,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+8/22/2016,AQS,340171003,3,13,ug/m3 SC,12,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+8/28/2016,AQS,340171003,3,16,ug/m3 SC,15,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+9/3/2016,AQS,340171003,3,13,ug/m3 SC,12,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+9/9/2016,AQS,340171003,3,24,ug/m3 SC,22,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+9/15/2016,AQS,340171003,3,9,ug/m3 SC,8,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+9/21/2016,AQS,340171003,3,20,ug/m3 SC,19,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+9/27/2016,AQS,340171003,3,12,ug/m3 SC,11,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+10/3/2016,AQS,340171003,3,16,ug/m3 SC,15,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+10/9/2016,AQS,340171003,3,7,ug/m3 SC,6,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+10/15/2016,AQS,340171003,3,15,ug/m3 SC,14,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+10/21/2016,AQS,340171003,3,10,ug/m3 SC,9,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+10/27/2016,AQS,340171003,3,10,ug/m3 SC,9,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+11/2/2016,AQS,340171003,3,23,ug/m3 SC,21,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+11/8/2016,AQS,340171003,3,23,ug/m3 SC,21,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+11/14/2016,AQS,340171003,3,28,ug/m3 SC,26,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+11/20/2016,AQS,340171003,3,2,ug/m3 SC,2,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+11/26/2016,AQS,340171003,3,14,ug/m3 SC,13,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+12/2/2016,AQS,340171003,3,7,ug/m3 SC,6,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+12/8/2016,AQS,340171003,3,14,ug/m3 SC,13,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+12/14/2016,AQS,340171003,3,19,ug/m3 SC,18,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
+12/26/2016,AQS,340171003,3,12,ug/m3 SC,11,Jersey City Firehouse,1,100,81102,PM10 Total 0-10um STP,35620,"New York-Newark-Jersey City, NY-NJ-PA",34,New Jersey,17,Hudson,40.725413,-74.052293
